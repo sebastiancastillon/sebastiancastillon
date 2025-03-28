@@ -1,14 +1,18 @@
 <h1 align="center">Hola, soy Sebastián Castillón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
 
+<a target="_blank" align="center">
+  <img align="right" top="300" height="300" width="300" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXg2eGlnNDFhaWdtMjZhNGlwZGpqcXlmYjF3b3FoM3ozMWY4djJ2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif">
+</a>
+
+<br>
 🏫: Soy estudiante de Ingeniería en Sistemas Computacionales en el Tec de Colima.
 
-🖥️: Actualmente trabajo en el desarrollo de software y gestión de bases de datos. <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+🖥️: Actualmente trabajo en el desarrollo de software y gestión de bases de datos. 
 
 🚀: Estoy aprendiendo sobre desarrollo web, optimización de código y arquitecturas de software. 💻📊
 
-🎬: Me gusta crear videos y explorar nuevas formas de edición. 🎥✂️ 
+🎬: Me gusta crear videos y explorar las novedades de edición. 🎥✂️ 
 
 🛠️: También hago proyectos de tecnología, administración de sistemas y análisis de datos. ⚙️📈
 
