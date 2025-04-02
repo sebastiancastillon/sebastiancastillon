@@ -18,7 +18,6 @@
 
 🧠: Siempre busco aprender y mejorar mis habilidades. 🤓
 
-💬: Pregunta sobre programación web, bases de datos, telecomunicaciones y desarrollo de sistemas. 📚📡
 </br>
 
 <Br>
