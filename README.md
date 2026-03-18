@@ -1,7 +1,13 @@
 <h1 align="center">Hola, soy Sebastián Castillón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+
+
+
 <a target="_blank" align="center">
+
   <img align="right" top="300" height="300" width="300" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXg2eGlnNDFhaWdtMjZhNGlwZGpqcXlmYjF3b3FoM3ozMWY4djJ2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif">
+
 </a>
 
 <br>
