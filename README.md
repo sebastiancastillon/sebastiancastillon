@@ -11,7 +11,7 @@
 </a>
 
 <br>
-🏫: Estudiante de Ingeniería en Sistemas Computacionales en el **Tec de Colima**.
+🏫: Estudiante de Ingeniería en Sistemas Computacionales en el **Tecnológico Nacional de México Campus Colima**
 
 🚀: Especializado formalmente en **Movilidad Híbrida** y **Gestión de Datos / IA**.
 
